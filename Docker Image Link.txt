@@ -1,4 +1,5 @@
 Docker Image link after successful deployemt of the project on docker :- 
-https://hub.docker.com/repository/docker/devsagarkhatri/my-spring-app/general
+Profile Link : https://hub.docker.com/repository/docker/devsagarkhatri/my-spring-app/general
+Public Link  : https://hub.docker.com/r/devsagarkhatri/my-spring-app
 
 All related screenshots of the due process have been attached along with the project for viewing and assessment.
